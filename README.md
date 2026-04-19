@@ -1,4 +1,5 @@
 # Rocket League Arabic Chat Fix
+<img width="1024" height="572" alt="Untitled" src="https://github.com/user-attachments/assets/49b53ad2-6538-41ef-99fd-30247f738d26" />
 
 ## Overview
 This BakkesMod plugin resolves the persistent issue of Arabic text rendering incorrectly (appearing as disconnected letters, reversed text, or missing glyphs) within the native Rocket League chat interface. 
